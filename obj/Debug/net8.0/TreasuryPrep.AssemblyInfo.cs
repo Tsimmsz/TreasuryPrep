@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TreasuryPrep")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a1faa4686cd87143e6a0c595869a1f12ae1bac9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a7a226d457d287564e8ff8525815874e6115ddc")]
 [assembly: System.Reflection.AssemblyProductAttribute("TreasuryPrep")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TreasuryPrep")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
